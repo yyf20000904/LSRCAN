@@ -11,6 +11,7 @@ Laser Stripes Residual Channel Attention Network
 
 ## Train
 * dataset
+* our binary training dataset:https://pan.baidu.com/s/1tRUSQ35YopbSQqxdsR5lgQ?pwd=nuat 
 * prepare
 
 
